@@ -6,7 +6,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from db import *
 import os
 
-TOKEN = os.getenv("8173534065:AAHjIm0A0L7GtoiIyk7qV-JgF46Uzlwb0xo")
+TOKEN = os.getenv("")
 bot = Bot(TOKEN)
 
 dp = Dispatcher()
